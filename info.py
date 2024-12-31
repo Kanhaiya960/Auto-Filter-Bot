@@ -66,7 +66,7 @@ SOURCE_CHANNELS3 = int(environ.get('SOURCE_CHANNELS3', '-1001822541447')) # 1Tam
 SOURCE_CHANNELS4 = int(environ.get('SOURCE_CHANNELS4', '-1001864825324')) # 1TamilMV
 SOURCE_CHANNELS5 = int(environ.get('SOURCE_CHANNELS5', '-1001822541447')) # 1TamilBlasters
 SOURCE_CHANNELS6 = int(environ.get('SOURCE_CHANNELS6', '-1001864825324')) # 1TamilMV
-SOURCE_CHANNELS7 = int(environ.get('SOURCE_CHANNELS7', '2082930520'))
+SOURCE_CHANNELS7 = int(environ.get('SOURCE_CHANNELS7', '0'))
 
 # support group
 SUPPORT_GROUP = environ.get('SUPPORT_GROUP', '-1002256368276')
@@ -77,12 +77,12 @@ else:
     SUPPORT_GROUP = int(SUPPORT_GROUP)
 
 # MongoDB information
-DATABASE_URL = environ.get('DATABASE_URL', "mongodb+srv://KarthikMovies:KarthikUK007@cluster0.4l5byki.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_URL = environ.get('DATABASE_URL', "mongodb+srv://Kanhaiya:kanhaiya960@cluster0.ljdbg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 if len(DATABASE_URL) == 0:
     print('Error - DATABASE_URL is missing, exiting now')
     exit()
-DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
+DATABASE_NAME = environ.get('DATABASE_NAME', "Kanhaiya")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Kanhaiya')
 
 # Links
 SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/UpperZoneBot')
