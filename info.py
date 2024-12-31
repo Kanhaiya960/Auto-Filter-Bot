@@ -60,12 +60,12 @@ FORCE_SUB = [int(force_sub) if force_sub.startswith("-") else force_sub for forc
 if len(FORCE_SUB) == 0:
     print('Info - FORCE_SUB is empty')
 # For Forwarding 
-SOURCE_CHANNELS1 = int(environ.get('SOURCE_CHANNELS1', '-1002439854017')) # 1TamilBlasters
-SOURCE_CHANNELS2 = int(environ.get('SOURCE_CHANNELS2', '-1001864825324')) # 1TamilMV
-SOURCE_CHANNELS3 = int(environ.get('SOURCE_CHANNELS3', '-1001822541447')) # 1TamilBlasters
-SOURCE_CHANNELS4 = int(environ.get('SOURCE_CHANNELS4', '-1001864825324')) # 1TamilMV
-SOURCE_CHANNELS5 = int(environ.get('SOURCE_CHANNELS5', '-1001822541447')) # 1TamilBlasters
-SOURCE_CHANNELS6 = int(environ.get('SOURCE_CHANNELS6', '-1001864825324')) # 1TamilMV
+SOURCE_CHANNELS1 = int(environ.get('SOURCE_CHANNELS1', '-1002457424722')) # 1TamilBlasters
+SOURCE_CHANNELS2 = int(environ.get('SOURCE_CHANNELS2', '0')) # 1TamilMV
+SOURCE_CHANNELS3 = int(environ.get('SOURCE_CHANNELS3', '0')) # 1TamilBlasters
+SOURCE_CHANNELS4 = int(environ.get('SOURCE_CHANNELS4', '0')) # 1TamilMV
+SOURCE_CHANNELS5 = int(environ.get('SOURCE_CHANNELS5', '0')) # 1TamilBlasters
+SOURCE_CHANNELS6 = int(environ.get('SOURCE_CHANNELS6', '0')) # 1TamilMV
 SOURCE_CHANNELS7 = int(environ.get('SOURCE_CHANNELS7', '0'))
 
 # support group
