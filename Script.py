@@ -52,7 +52,7 @@ I can't find the <b>{}</b> in my database! 🥲
 
 » sᴛᴇᴘ 1:- ғɪʀsᴛ ʏᴏᴜ ʜᴀᴠᴇ ᴛᴏ ᴀᴅᴅ ᴛʜɪs ʙᴏᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴀᴅᴍɪɴ ᴘᴇʀᴍɪssɪᴏɴ.
 
-» sᴛᴇᴘ 2:- ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href=https://t.me/How_downlode_dpbots/22>publicearn.online</a> [ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
+» sᴛᴇᴘ 2:- ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href=https://t.me/Movies_4_Download/22>publicearn.online</a> [ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
 
 » sᴛᴇᴘ 3:- ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴇʟᴏᴡ ɢɪᴠᴇɴ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ sʜᴏʀᴛɴᴇʀ ᴡɪᴛʜ ᴛʜɪs ʙᴏᴛ.
 
@@ -86,15 +86,15 @@ I can't find the <b>{}</b> in my database! 🥲
 🗣 Requested by: {message.from_user.mention}
 ©️ Powered by: {message.chat.title}</b>"""
 
-    FILE_CAPTION = """<b>@Movies_Dayz - {file_name}
+    FILE_CAPTION = """<b>@Kanus_Network - {file_name}
     
-Join ➥ <a href="https://t.me/Movies_Dayz">Movies Dayz</a></b>"""
+Join ➥ <a href="https://t.me/Movies_4_Download">Movies Download</a></b>"""
 
     WELCOME_TEXT = """<b>👋 Hello {mention}, Welcome to {title} group! 💞</b>"""
 
     HELP_TXT = """<b>Help :- Extra Modules
 
-NOTE :- These are the Extra Features of Our Star Movies Bot
+NOTE :- These are the Extra Features of Our Movies Bot
 
 Commands and Usage :
 • /id - Get ID of a Specified User.
@@ -141,9 +141,9 @@ Commands and Usage :
 
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
-- ꜱᴏᴜʀᴄᴇ - <a href=https://t.me/U_Karthik>ʜᴇʀᴇ</a>
+- ꜱᴏᴜʀᴄᴇ - <a href=https://t.me/rj_09_kanhaiya>ʜᴇʀᴇ</a>
 
-- ᴅᴇᴠʟᴏᴘᴇʀ - @DP_BOTZ</b>"""
+- ᴅᴇᴠʟᴏᴘᴇʀ - @Movies_4_Download</b>"""
 
     PREMIUM_PLAN_TEXT = """<b><i><u>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs</u>
 
