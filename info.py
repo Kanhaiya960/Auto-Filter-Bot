@@ -126,9 +126,9 @@ PAYMENT_QR = environ.get('PAYMENT_QR', 'https://envs.sh/8NH.jpg')
 OWNER_UPI_ID = environ.get('OWNER_UPI_ID', 'Contact At @rj_09_kanhaiya')
 
 # RSS Feed URL
-TAMILMV = environ.get("TMV", "https://www.1tamilmv.uno/")
-TAMILBLAST = environ.get("TB", "https://www.1tamilblasters.party/")
-TAMILROCKERS = environ.get("TR", "https://www.2tamilrockers.com/")
+TAMILMV = environ.get("TMV", "")
+TAMILBLAST = environ.get("TB", "")
+TAMILROCKERS = environ.get("TR", "")
 # log channel list
 TAMILMV_LOG = int(environ.get("TMV_LOG", -1002237007652))
 TAMILBLAST_LOG = int(environ.get("TB_LOG", -1002237007652))
