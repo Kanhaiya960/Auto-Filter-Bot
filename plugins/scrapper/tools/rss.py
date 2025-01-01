@@ -80,7 +80,7 @@ async def tamilmv(bot: Client):
                 real_dict[movie_list[num]].append((f"/ql {file_link[p]} \n\n **{all_titles[p]}**"))
                 if not await u_db.is_tamilmv_exist(all_titles[p], file_link[p], mag[p]):
                     await bot.send_message(chat_id=TAMILMV_LOG,
-                        text=f"<b>/qbleech {file_link[p]}\n\n{all_titles[p]}</b>\n<b>📥 Updated By <a href='https://t.me/DP_BOTZ'>1TamilMV</a></b>", disable_web_page_preview=True)
+                        text=f"<b>/qbleech {file_link[p]}\n🧲 Magnet Link :- <a href='https://t.me/share/url?url={mag[p]}'>Click here</a>\n\n{all_titles[p]}</b>\n<b>📥 Updated By <a href='https://t.me/DP_BOTZ'>1TamilMV</a></b>", disable_web_page_preview=True)
                     print(f"added working...")
                     await u_db.add_tamilmv(all_titles[p], file_link[p], mag[p])
                     await asyncio.sleep(300)
@@ -159,7 +159,7 @@ async def tamilblasters(bot: Client):
                 real_dict[movie_list[num]].append((f"/ql {file_link[p]} \n\n **{all_titles[p]}**"))
                 if not await u_db.is_tb_exist(all_titles[p], file_link[p], mag[p]):
                     await bot.send_message(chat_id=TAMILBLAST_LOG,
-                        text=f"<b>/qbleech2 {file_link[p]}\n\n{all_titles[p]}</b>\n<b>📥 Updated By <a href='https://t.me/DP_BOTZ'>1TamilBlasters</a></b>", disable_web_page_preview=True)
+                        text=f"<b>/qbleech2 {file_link[p]}\n🧲 Magnet Link :- <a href='https://t.me/share/url?url={mag[p]}'>Click here</a>\n\n{all_titles[p]}</b>\n<b>📥 Updated By <a href='https://t.me/DP_BOTZ'>1TamilBlasters</a></b>", disable_web_page_preview=True)
                     print(f"added working...")
                     await u_db.add_tb(all_titles[p], file_link[p], mag[p])
                     await asyncio.sleep(300)
@@ -239,7 +239,7 @@ async def tamilrockers(bot: Client):
                 real_dict[movie_list[num]].append((f"/ql {file_link[p]} \n\n **{all_titles[p]}**"))
                 if not await u_db.is_tr_exist(all_titles[p], file_link[p], mag[p]):
                     await bot.send_message(chat_id=TAMILROCKERS_LOG,
-                        text=f"<b>/qbleech {file_link[p]}\n\n{all_titles[p]}</b>\n<b>📥 Updated By <a href='https://t.me/DP_BOTZ'>2TamilRockers</a></b>", disable_web_page_preview=True)
+                        text=f"<b>/qbleech {file_link[p]}\n🧲 Magnet Link :- <a href='https://t.me/share/url?url={mag[p]}'>Click here</a>\n\n{all_titles[p]}</b>\n<b>📥 Updated By <a href='https://t.me/DP_BOTZ'>2TamilRockers</a></b>", disable_web_page_preview=True)
                     print(f"added working...")
                     await u_db.add_tr(all_titles[p], file_link[p], mag[p])
                     await asyncio.sleep(300)
