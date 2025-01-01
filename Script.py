@@ -14,11 +14,11 @@ class script(object):
 
     MY_OWNER_TXT = """<b>★ Name: Kanu Network 
     
-★ Username: @DP_BOTZ & @Star_Bots_Tamil
+★ Username: @Kanus_Network & @Movies_4_Download
 
 ★ Country: India 🇮🇳
 
-★ Nationality: Tamizhan 🏹 🐯 🎏</b>"""
+★ Nationality: Indian 💞</b>"""
 
     STATUS_TXT = """<b>🗂 Total Files: <code>{}</code>
 👤 Total Users: <code>{}</code>
