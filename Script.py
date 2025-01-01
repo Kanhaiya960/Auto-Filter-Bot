@@ -4,15 +4,15 @@ class script(object):
     
 ɪ ᴀᴍ ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ᴡɪᴛʜ ʟɪɴᴋ sʜᴏʀᴛᴇɴᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴀꜱ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ᴡɪᴛʜ ʟɪɴᴋ sʜᴏʀᴛᴇɴᴇʀ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ... ɪᴛ'ꜱ ᴇᴀꜱʏ ᴛᴏ ᴜꜱᴇ ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴀꜱ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ᴍᴏᴠɪᴇꜱ ᴡɪᴛʜ ʏᴏᴜʀ ʟɪɴᴋ ꜱʜᴏʀᴛᴇɴᴇʀ... ♻️</b>"""
 
-    MY_ABOUT_TXT = """<b>★ Name: <a href=https://t.me/Star_Moviess_Bot>Star Movies Bot</a>
-★ Devloper: <a href=https://t.me/U_Karthik>Karthik</a>
+    MY_ABOUT_TXT = """<b>★ Name: <a href=https://t.me/Kanus_Network>Kanus Network</a>
+★ Devloper: <a href=https://t.me/rj_09_kanhaiya>Kanu</a>
 ★ Server: <a href=https://www.heroku.com>Heroku</a>
 ★ Database: <a href=https://www.mongodb.com>MongoDB</a>
 ★ Language: <a href=https://www.python.org>Python</a>
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>
-★ Channel: <a href=https://t.me/DP_BOTZ>DP Bots</a></b>"""
+★ Channel: <a href=https://t.me/Movies_4_Download>Movies_4_Download</a></b>"""
 
-    MY_OWNER_TXT = """<b>★ Name: DP Botz & Star Bots Tamil
+    MY_OWNER_TXT = """<b>★ Name: Kanu Network 
     
 ★ Username: @DP_BOTZ & @Star_Bots_Tamil
 
