@@ -98,14 +98,14 @@ async def send_movie_updates(bot, file_name, caption, file_id):
 
         # Get poster URL
         poster_url = await get_imdb(movie_name)
-        caption_message = f"<b>Movie :- <code>{movie_name}</code>\n\nYear :- {year if year else 'Not Available'}\n\nLanguage :- {language}\n\nQuality :- {quality.replace(', ', ' ')}\n\n📤 Uploading By :- <a href=https://t.me/Movies_Dayz>Movies Dayz</a>\n\n⚡ Powered By :- <a href=https://t.me/Star_Moviess_Tamil>Star Movies Tamil</a></b>"
+        caption_message = f"<b>Movie :- <code>{movie_name}</code>\n\nYear :- {year if year else 'Not Available'}\n\nLanguage :- {language}\n\nQuality :- {quality.replace(', ', ' ')}\n\n📤 Uploading By :- <a href=https://t.me/Movies_4_Download>Movies_4_Download</a>\n\n⚡ Powered By :- <a href=https://t.me/Kanus_Network>Kanus Network</a></b>"
         # Prepare buttons
         search_movie = movie_name.replace(" ", '-')
         if year:
             search_movie = search_movie.replace(f"-{year}", "")  # Remove the year part from the search string
         btn = [
             [InlineKeyboardButton('📂 Get File 📂', url=f'https://telegram.me/{temp.U_NAME}?start=getfile-{search_movie}')],
-            [InlineKeyboardButton('📥 How to Download 📥', url='https://t.me/How_downlode_dpbots/22')]
+            [InlineKeyboardButton('📥 How to Download 📥', url='https://t.me/Movies_4_Download/22')]
         ]
         reply_markup = InlineKeyboardMarkup(btn)
 
